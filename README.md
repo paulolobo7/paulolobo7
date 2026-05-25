@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Hello world, my name is Paulo, I'm a beginner front-end developer focusing on Typescript and React.</p>
+<p align="left">Hello world, my name is Paulo, I'm a beginner fullstack developer focusing on Typescript and React.js in Front-End and Node.js in Back-End.</p>
 
 ###
 
