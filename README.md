@@ -58,7 +58,7 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/paulolobo7/paulolobo/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/paulolobo7/paulolobo7/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
